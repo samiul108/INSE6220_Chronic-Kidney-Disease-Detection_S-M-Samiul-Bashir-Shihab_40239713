@@ -1,1 +1,1 @@
-# INSE6220_Chronic-Kidney-Disease-Detection_S-M-Samiul-Bashir-Shihab_40239713
+#Chronic-Kidney-Disease-Detection_S-M-Samiul-Bashir-Shihab_40239713
